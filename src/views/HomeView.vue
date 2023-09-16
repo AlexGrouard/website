@@ -11,13 +11,13 @@
       </div> 
       <div class="icon">
           <a href="https://www.linkedin.com/in/alex-grouard-a3109b19/" target="_blank">
-              <img src="src/assets/linkedin.png" alt="linkedin" />
+              <img src="../assets/linkedin.png" alt="linkedin" />
           </a>
           <a href="https://github.com/AlexGrouard" target="_blank">
-              <img src="src/assets/github.png"  alt="github" />
+              <img src="../assets/github.png"  alt="github" />
           </a>
           <a href="mailto:alex.m.grouard@gmail.com" target="_blank">
-              <img src="src/assets/email.svg" alt="email" />
+              <img src="../assets/email.svg" alt="email" />
           </a>
       </div>
   </div> 
