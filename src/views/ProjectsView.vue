@@ -6,17 +6,17 @@ const slides = [
   {
     id: 1,
     title: 'Project HRNet',
-    content: '/website/src/assets/project/Hrnet.png'
+    content: '/website/src/assets/Hrnet.png'
   },
   {
     id: 2,
     title: 'Date Picker',
-    content: '/website/src/assets/project/DatePicker.png'
+    content: '/website/src/assets/DatePicker.png'
   },
   {
     id: 3,
     title: 'Table',
-    content: '/website/src/assets/project/Table.png'
+    content: '/website/src/assets/Table.png'
   },
 ]
 </script>
@@ -50,8 +50,8 @@ const slides = [
     </div>
     <div class="Project"> 
       <h2>Project Sportsee</h2>
-      <a href="src/assets/project/Sportsee.png" target="_blank">
-        <img class="project_img" src="../assets/project/Sportsee.png" alt="Sportsee" />
+      <a href="src/assets/Sportsee.png" target="_blank">
+        <img class="project_img" src="../assets/Sportsee.png" alt="Sportsee" />
       </a>
       <p class="blurb">The goal of this project was to create a dashboard connect to an existing API.<br />
         For this I've used React and Recharts.js for all the charts.<br />
