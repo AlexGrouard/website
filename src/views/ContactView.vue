@@ -1,4 +1,4 @@
-<script lang="ts">
+<script>
 import emailjs from '@emailjs/browser';
 const button = document.querySelector('button');
 export default {
