@@ -11,7 +11,7 @@ const slides = [
   {
     id: 2,
     title: 'Date Picker',
-    content: 'src/assets/project/DatePicker.png'
+    content: 'src/assets/project/Dgit add *atePicker.png'
   },
   {
     id: 3,
