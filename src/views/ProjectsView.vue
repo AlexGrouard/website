@@ -6,17 +6,17 @@ const slides = [
   {
     id: 1,
     title: 'Project HRNet',
-    content: '/website/src/assets/hrnet.png'
+    content: '/assets/hrnet.png'
   },
   {
     id: 2,
     title: 'Date Picker',
-    content: '/website/src/assets/datepicker.png'
+    content: '/assets/datepicker.png'
   },
   {
     id: 3,
     title: 'Table',
-    content: '/website/src/assets/table.png'
+    content: '/assets/table.png'
   },
 ]
 </script>
@@ -50,7 +50,7 @@ const slides = [
     </div>
     <div class="Project"> 
       <h2>Project Sportsee</h2>
-      <a href="src/assets/Sportsee.png" target="_blank">
+      <a href="/assets/Sportsee.png" target="_blank">
         <img class="project_img" src="../assets/Sportsee.png" alt="Sportsee" />
       </a>
       <p class="blurb">The goal of this project was to create a dashboard connect to an existing API.<br />
