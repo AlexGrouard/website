@@ -1,12 +1,16 @@
 <script setup>
 import { useCycleList } from '@vueuse/core'
+import hrnet from '../assets/project/hrnet.png'
+import datepicker from '../assets/project/datepicker.png'
+import table from'../assets/project/table.png'
+
+
 
 const { state, prev, next } = useCycleList([
-  '/src/assets/project/hrnet.png',
-  '/src/assets/project/datepicker.png',
-  '/src/assets/project/table.png'
+  hrnet,
+  datepicker,
+  table
 ]);
-
 </script>
 
 <template>
