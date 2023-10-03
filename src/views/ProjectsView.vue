@@ -6,17 +6,17 @@ const slides = [
   {
     id: 1,
     title: 'Project HRNet',
-    content: 'src/assets/hrnet.png'
+    content: '/assets/hrnet.png'
   },
   {
     id: 2,
     title: 'Date Picker',
-    content: 'src/assets/datepicker.png'
+    content: '/assets/datepicker.png'
   },
   {
     id: 3,
     title: 'Table',
-    content: 'src/assets/table.png'
+    content: '/assets/table.png'
   },
 ]
 </script>
