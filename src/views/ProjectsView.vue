@@ -1,10 +1,12 @@
 <script setup>
 import { useCycleList } from '@vueuse/core'
+
 const { state, prev, next } = useCycleList([
   '/src/assets/project/hrnet.png',
- '/src/assets/project/datepicker.png',
- '/src/assets/project/table.png'
+  '/src/assets/project/datepicker.png',
+  '/src/assets/project/table.png'
 ]);
+
 </script>
 
 <template>
@@ -62,6 +64,7 @@ const { state, prev, next } = useCycleList([
     object-fit: contain;
     margin-top: 1rem
 }
+
 .little-icon{
   width: 50px;
   height: 50px;
